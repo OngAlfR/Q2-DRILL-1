@@ -1,0 +1,11 @@
+body {
+    background-image: url(https://img.magnific.com/premium-photo/light-supreme-beige-abstract-creative-background-design_851755-345326.jpg?semt=ais_hybrid&w=740&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.row{
+    margin: 3px;
+    gap: 5px;
+}
